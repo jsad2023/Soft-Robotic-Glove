@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "QFN16_AKM")(type "KiCad")(uri "C:/Program Files/KiCad/7.0/lib/ap1013den_v3/KiCAD/2023-04-10_21-37-05/footprints.pretty")(options "")(descr ""))
+)
